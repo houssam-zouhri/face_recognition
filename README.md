@@ -1,4 +1,5 @@
-# face_recognitionFacial recognition technology has gained more attention due to many applications such as video surveillance, criminal identification, building access control by security-conscious companies, and unmanned and
+# face_recognition
+Facial recognition technology has gained more attention due to many applications such as video surveillance, criminal identification, building access control by security-conscious companies, and unmanned and
 autonomous vehicles. This study is developing an intelligent facial recognition framework that detects faces
 using the Oriented Gradient Histogram (HOG) and then facial recognition in images and video streams with
 OpenCV. Our work presents a new approach, which involves identifying specific and distinctive details on
